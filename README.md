@@ -11,7 +11,7 @@ Built on CosyVoice3. Two-layer control architecture, discovered through measurem
 
 ## Dataset
 
-Curated from 25 years of studio recordings. Same microphone (Sennheiser 416), same preamp and compressor chain, same room. That consistency makes the recording chain invisible to the embedding model.
+Curated from 25 years of studio recordings. Same microphone (Brauner Phantom V), same preamp and compressor chain, same room. That consistency makes the recording chain invisible to the embedding model.
 
 - 2,600+ distinct speakers
 - 300+ hours clean audio
